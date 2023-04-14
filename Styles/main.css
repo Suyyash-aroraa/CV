@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arizonia&display=swap');
+
 div{
     background-color:#EAF6F6 ;
     margin: 0px 0px 0px 0px;
@@ -5,12 +7,13 @@ div{
 body{
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #FEFEFE;
 }
 h1{
     margin: 0;
     color: #66BFBF;
-    align-content: center;
-    font-family: ;
+    font-family:'Arizonia';
+    font-size: 50px;
 }
 
 h2{
@@ -31,7 +34,7 @@ img{
     margin-top: 20px;
 }
 .big-Circle{
-    margin-left: 70%;
+    margin-left: 60%;
 }
 .BottonConatine {
     padding-bottom: 0;
@@ -49,4 +52,9 @@ hr{
     border-width: 8px;
     border-color: #ddd;
     
+}
+
+footer{
+    background-color: #66BFBF;
+    margin-bottom: 0;
 }

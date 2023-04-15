@@ -14,12 +14,14 @@ h1{
     color: #66BFBF;
     font-family:'Arizonia';
     font-size: 50px;
+    text-align: center;
 }
 
 h2{
     margin-bottom: 0;
     color: #66BFBF;
     margin-top: 2px;
+    text-align: center;
 }
 
 .Top_container{
@@ -30,7 +32,7 @@ img{
 }
 
 .mainIMG{
-    margin-left: 15%;
+    margin-left: 10%;
     margin-top: 20px;
 }
 .big-Circle{
@@ -57,4 +59,21 @@ hr{
 footer{
     background-color: #66BFBF;
     margin-bottom: 0;
+}
+p{
+    margin: auto;
+    text-align: center;
+    width: 60%;
+}
+table{
+    text-align: center;
+    margin: auto;
+}
+table, th,td,tr{
+    border: 6px solid transparent;
+
+}
+
+.skill {
+    width: 30%;
 }
